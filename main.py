@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-from replit import db  # Import Replit database
 from datetime import datetime, timedelta
 import re
 
