@@ -289,4 +289,4 @@ async def nuke(ctx):
 
 
 # Run the bot
-bot.run('MTIwNTQ5NTgzMTE1MTc3MTY3OA.GpPz2G.ai0L18X4aVms4uvhJjWa6-Q95Xb76CBngQ9jfU')
+bot.run('MY_VARIABLE')
